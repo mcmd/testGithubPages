@@ -1,4 +1,4 @@
-#theme: jekyll-theme-hydejack
+#theme: minima #jekyll-theme-hydejack
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -9,7 +9,7 @@ header_pages:
 #webaddress: "https://mcmd.github.io/testGithubPages"
 #url: "https://mcmd.github.io/testGithubPages"
 
-remote_theme: broccolini/athena
+#remote_theme: broccolini/athena
 #broccolini/swiss 
 #mistakes/minimal-mistakes
 
