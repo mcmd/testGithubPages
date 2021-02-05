@@ -5,3 +5,7 @@ theme: minima
 header_pages:
  - about.md
  - test
+
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
