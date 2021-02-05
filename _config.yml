@@ -9,7 +9,7 @@ header_pages:
 remote_theme: jekyll/minima
 
 minima:
-  skin: solarized
+  skin: dark
 
 site:
   author: 
