@@ -7,6 +7,5 @@ header_pages:
  - test
 
 site:
-  author:
-    name: John Smith
-    email: "john.smith@foobar.com"
+  author: John Smith
+  email: "john.smith@foobar.com"
