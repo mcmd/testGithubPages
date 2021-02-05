@@ -1,4 +1,4 @@
-theme: jekyll-theme-hydejack
+#theme: jekyll-theme-hydejack
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -6,7 +6,7 @@ header_pages:
  - about.md
  - test
 
-#remote_theme: qwtel/hydejack
+remote_theme: qwtel/hydejack
 
 minima:
   skin: dark
