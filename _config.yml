@@ -6,10 +6,7 @@ header_pages:
  - about.md
  - test
 
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: poole/hyde
+remote_theme: qwtel/hydejack
 
 minima:
   skin: dark
