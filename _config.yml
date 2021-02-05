@@ -6,10 +6,10 @@ header_pages:
  - about.md
  - test
 
-webaddress: "https://mcmd.github.io/testGithubPages"
-url: "https://mcmd.github.io/testGithubPages"
+#webaddress: "https://mcmd.github.io/testGithubPages"
+#url: "https://mcmd.github.io/testGithubPages"
 
-remote_theme: poole/hyde
+remote_theme: broccolini/athena
 #broccolini/swiss 
 #mistakes/minimal-mistakes
 
