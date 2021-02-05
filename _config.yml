@@ -6,7 +6,8 @@ header_pages:
  - about.md
  - test
 
-remote_theme: broccolini/swiss 
+remote_theme:  mmistakes/minimal-mistakes
+#broccolini/swiss 
 #qwtel/hydejack
 
 minima:
