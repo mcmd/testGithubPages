@@ -1,3 +1,3 @@
 este es el index
 
-Go to [README page](README.md)
+Go to [about page](about.md)
