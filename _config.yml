@@ -6,7 +6,8 @@ header_pages:
  - about.md
  - test
 
-remote_theme: broccolini/swiss 
+remote_theme: poole/hyde
+#broccolini/swiss 
 #mistakes/minimal-mistakes
 
 #broccolini/swiss 
