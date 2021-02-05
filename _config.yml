@@ -6,6 +6,8 @@ header_pages:
  - about.md
  - test
 
+url: https://mcmd.github.io/testGithubPages/
+
 remote_theme: poole/hyde
 #broccolini/swiss 
 #mistakes/minimal-mistakes
