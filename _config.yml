@@ -22,7 +22,8 @@ minima:
   skin: dark
 
 site:
-  title: "GitHub pages sandbox"
+  title: GitHub pages sandbox
+  description : Site description
   author: 
     name: John Smith
     email: "john.smith@foobar.com"
